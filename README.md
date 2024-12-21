@@ -1,6 +1,5 @@
-### **Atliq Hardware Data Analytics SQL and Power BI Dashboard Project**  
-**Role:** Data Analyst  
-**Tools Used:** SQL, Power BI
+### **Consumer Goods Ad_hoc Insights **  
+**Domain**:  Consumer Goods | **Function**: Executive Management
 
 **Situation:**  
 Atliq Hardware, a leading computer hardware producer in India, identified the need for more insightful data to support quick and smart decision-making. The management sought to address ten ad-hoc requests by deriving key insights from their data and presenting them in a comprehensive, easily digestible format.
