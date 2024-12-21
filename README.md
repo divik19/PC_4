@@ -14,8 +14,6 @@ I was tasked with answering the ad-hoc business questions through SQL queries, a
 - **SQL Techniques:**  
   Leveraged advanced SQL concepts like **CTEs**, **joins**, **window functions**, **group by**, and **aggregate functions** to calculate product growth, sales performance, and customer discount trends.
   
-- **Dashboard Development in Power BI:**  
-  Designed and developed an interactive dashboard that presented the key insights on sales by platform, product performance, financial metrics, and operational efficiency. The dashboard incorporated **KPIs**, **charts**, and **trend graphs** for easy interpretation by management.
 
 **Result:**  
 - **Insightful Reports:**  
