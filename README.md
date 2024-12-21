@@ -1,4 +1,4 @@
-### **Consumer Goods Ad_hoc Insights **  
+### Consumer Goods Ad_hoc Insights
 **Domain**:  Consumer Goods | **Function**: Executive Management
 
 **Situation:**  
